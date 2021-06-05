@@ -1,9 +1,10 @@
 {
   "name": "bcryptjs",
-  "description": "Optimized bcrypt in plain JavaScript with zero dependencies. Compatible to 'bcrypt'.",
+  "description": "Fixed for CFW. Optimized bcrypt in plain JavaScript with zero dependencies. Compatible to 'bcrypt'.",
   "version": "2.4.4",
   "author": "Daniel Wirtz <dcode@dcode.io>",
   "contributors": [
+    "Simon Blomsterlund <simon@alarmr.io> (https://github.com/simonblund)",
     "Shane Girish <shaneGirish@gmail.com> (https://github.com/shaneGirish)",
     "Alex Murray <> (https://github.com/alexmurray)",
     "Nicolas Pelletier <> (https://github.com/NicolasPelletier)",
