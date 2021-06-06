@@ -1,9 +1,10 @@
 {
   "name": "bcryptjs-cfw",
-  "description": "Fixed for CFW. Optimized bcrypt in plain JavaScript with zero dependencies. Compatible to 'bcrypt'.",
+  "description": "Fixed for CFW. Many thanks to Daniel and other contributors of the bcrypt.js package. Optimized bcrypt in plain JavaScript with zero dependencies. Compatible to 'bcrypt'.",
   "version": "3.0.5",
-  "author": "Daniel Wirtz <dcode@dcode.io>",
+  "author": "Simon Blomsterlund <simon@alarmr.io>",
   "contributors": [
+    "Daniel Wirtz <dcode@dcode.io>",
     "Simon Blomsterlund <simon@alarmr.io> (https://github.com/simonblund)",
     "Shane Girish <shaneGirish@gmail.com> (https://github.com/shaneGirish)",
     "Alex Murray <> (https://github.com/alexmurray)",
