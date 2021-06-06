@@ -13,10 +13,10 @@
   ],
   "repository": {
     "type": "url",
-    "url": "https://github.com/dcodeIO/bcrypt.js.git"
+    "url": "https://github.com/CriticalTechIo/bcrypt.js.git"
   },
   "bugs": {
-    "url": "https://github.com/dcodeIO/bcrypt.js/issues"
+    "url": "https://github.com/CriticalTechIo/bcrypt.js/issues"
   },
   "keywords": [
     "bcrypt",
